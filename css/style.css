@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Arvo:wght@700&family=Open+Sans+Condensed:wght@300&display=swap");
+
+@import url("components/container.css");
+@import url("compponents/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 18px;
+	margin: 10px;
+}
+
+h1,h2,h3,h4 {
+	font-family: 'Arvo', serif;
+}
+
+a {
+	text-decoration: none;
+}
